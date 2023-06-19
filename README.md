@@ -30,9 +30,9 @@ If the input marks are not within the valid range (0 to 100), an error message w
 
 ## File Structure
 
-- `index.html`: Contains the HTML structure and user interface elements for the grade calculator.
-- `index.js`: Contains the JavaScript code responsible for the grade calculation and updating the user interface.
+- `Challenge_one.html`: Contains the HTML structure and user interface elements for the grade calculator.
+- `Challenge_one.js`: Contains the JavaScript code responsible for the grade calculation and updating the user interface.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/muiatitus/first-code-challenge/blob/main/LICENSE).
