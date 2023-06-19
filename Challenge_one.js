@@ -1,6 +1,6 @@
 
 function calculateGrade() {
-      const marks = parseInt(document.getElementById("marks").value);
+    const marks = parseInt(document.getElementById("marks").value);
 
       if (marks > 79) {
        document.getElementById("result").textContent = "Grade: A";
